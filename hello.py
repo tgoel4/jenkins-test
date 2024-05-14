@@ -1,4 +1,4 @@
 from sys import exit
-print('hello world')
+print('hello world'
 exit ()
 
